@@ -9,7 +9,6 @@ public class AsciiValues {
 			char j = (char)i;
 			System.out.println( i + " - "+j+" \n");
 		}
-
 	}
 
 }
