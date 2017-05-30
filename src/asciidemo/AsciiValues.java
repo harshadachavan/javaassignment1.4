@@ -7,7 +7,7 @@ public class AsciiValues {
 		for (int i = 65; i < 91;i++) {
 			
 			char j = (char)i;
-			System.out.println("Ascii Value of " + i + " - "+j+" \n");
+			System.out.println( i + " - "+j+" \n");
 		}
 
 	}
